@@ -1,1 +1,7 @@
-# DA25TTA-KTLT-110125256
+#include <stdio.h>
+int main() {
+	int a,;
+  printf("nhap xuat a:");
+  scanf("%d",&a");
+	return 0;
+	 }
